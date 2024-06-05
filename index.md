@@ -4,7 +4,7 @@ description: Welcome to Quiz-Master!
 ---
 # Quiz Master
 
-![Cover Image](https://ailogomaker.io/ar/prompt/33143-Logo-Design-for-Quiz-Masters-Master-Symbol-in-Entertainment-Industry)
+![Cover Image](https://www.dock10.co.uk/assets/img/news/quizmaster-md.jpg)
 
 ## Navigation
 - [Introduction](#introduction)
@@ -13,7 +13,9 @@ description: Welcome to Quiz-Master!
 
 ## [Launch Quiz Master](https://www.quizmaster.com) {#launch-button}
 
+
 # Welcome to Quiz Master - Your Ultimate Quiz Solution!
+
 
 ## Introduction
 Welcome to Quiz Master - Your Ultimate Quiz Solution!
@@ -67,7 +69,7 @@ Access quizzes from anywhere and at any time, globally.
 
 Hello! We are an aspiring full stack software engineer from Africa, with a passion for coding and a dream to become the greatest full stack developer. Our journey in software development began with learning the basics of programming in C and Python. Over the years, We are always eager to learn and master new coding tricks.
 
-## My Vision
+## Our Vision
 
 As we progressed in our career, We recognized the power of interactive learning and the potential it has to make education enjoyable and accessible. This realization inspired us to create the Quiz Master project. Our goal was to develop a platform that not only challenges users with engaging quizzes but also helps them track their progress and stay motivated.
 
