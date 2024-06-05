@@ -1,3 +1,8 @@
-###Welcome to Quiz Master - Your Ultimate Quiz Solution!
+---
+title: My Landing Page
+description: Welcome to my landing page!
+---
 
-#Quiz Master is an engaging platform designed to make learning enjoyable and accessible. Whether you're a student, educator, trivia enthusiast, or casual learner, Quiz Master provides a fun and interactive way to test your knowledge and expand your understanding across various domains.
+# Welcome to My Landing Page
+This is the content of your landing page. You can use Markdown to format it.
+
