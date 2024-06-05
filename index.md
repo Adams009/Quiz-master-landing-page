@@ -4,7 +4,7 @@ description: Welcome to Quiz-Master!
 ---
 # Quiz Master
 
-![Cover Image](https://r2.erweima.ai/imgcompressed/compressed_f46f6a212da03dd04cf9975ef80f17d8.webp)
+![Cover Image](https://ailogomaker.io/ar/prompt/33143-Logo-Design-for-Quiz-Masters-Master-Symbol-in-Entertainment-Industry)
 
 ## Navigation
 - [Introduction](#introduction)
