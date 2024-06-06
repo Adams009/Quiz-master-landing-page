@@ -36,7 +36,7 @@ Welcome to Quiz Master - Your Ultimate Quiz Solution!
 ### 1. Diverse Question Types
 ![Diverse Question Types](Quiz Master - Google Chrome 6_6_2024 6_05_59 AM.png)
 **Diverse Question Types**
-Support for multiple-choice, true/false.
+-Support for multiple-choice, true/false.
 
 ### User Progress Tracking
 ![User Progress Tracking](Quiz Master - Google Chrome 6_6_2024 6_06_36 AM.png)
