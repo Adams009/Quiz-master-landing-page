@@ -137,8 +137,9 @@ As we look to the future, We are excited about the possibilities that lie ahead.
 Thank you for being a part of this exciting journey with Quiz Master!
 
 
-## Contact Information
-For support or inquiries, please email us at [support@quizmaster.com](mailto:support@quizmaster.com)
+## Link to Project Inspiration, Project Walk Through and Team Members Introduction
+[Project Inspiration, Project Walk Through and Team Members Introduction](https://www.canva.com/design/DAGHWhWLi-M/wWGDryoCLyoZK-H9NpNgnQ/edit?utm_content=DAGHWhWLi-M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 ## Footer
 &copy; 2024 Quiz Master. All Rights Reserved.
