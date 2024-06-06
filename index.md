@@ -14,7 +14,7 @@ Discover the fun and interactive way to test your knowledge
 ## Navigation
 - [Introduction](#introduction)
 - [Features](#features)
-- [Call to Action](#about)
+- [About](#about)
 
 ## [Launch Quiz Master](https://www.youtube.com/watch?v=wYLQdHQdOOY) {#launch-button}
 
