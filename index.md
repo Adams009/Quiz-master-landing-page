@@ -138,7 +138,7 @@ Thank you for being a part of this exciting journey with Quiz Master!
 
 
 ## Link to Project Inspiration, Project Walk Through and Team Members Introduction
-[Project Inspiration, Project Walk Through and Team Members Introduction](https://www.canva.com/design/DAGHWhWLi-M/wWGDryoCLyoZK-H9NpNgnQ/edit?utm_content=DAGHWhWLi-M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Project Inspiration, Project Walk Through and Team Members Introduction](https://www.canva.com/design/DAGHWhWLi-M/1hyPKduhjwx3G4cbQil18A/watch?utm_content=DAGHWhWLi-M&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 ## Footer
