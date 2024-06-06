@@ -16,7 +16,7 @@ Discover the fun and interactive way to test your knowledge
 - [Features](#features)
 - [About](#about)
 
-## [Launch Quiz Master](https://www.youtube.com/watch?v=wYLQdHQdOOY) {#launch-button}
+## [Launch Quiz Master Demo](https://www.youtube.com/watch?v=wYLQdHQdOOY) {#launch-button}
 
 ---
 
@@ -82,19 +82,19 @@ Over the past few months, We dedicated ourselves to developing Quiz Master, bala
 ### Team Members
 
 **Abdussalam Adam**
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
-- GitHub: [Your GitHub Profile](https://github.com/Adams009)
-- Twitter: [Your Twitter Profile](https://twitter.com/abdussa003)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/)
+- GitHub: [GitHub Profile](https://github.com/Adams009)
+- Twitter: [Twitter Profile](https://twitter.com/abdussa003)
 
 **Ugwoke Levi**
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
-- GitHub: [Your GitHub Profile](https://github.com/levoski1)
-- Twitter: [Your Twitter Profile](https://twitter.com/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/)
+- GitHub: [GitHub Profile](https://github.com/levoski1)
+- Twitter: [Twitter Profile](https://twitter.com/)
 
 **Georgina Emefa Kumah**
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
-- GitHub: [Your GitHub Profile](https://github.com/GodsGiftLove)
-- Twitter: [Your Twitter Profile](https://twitter.com/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/)
+- GitHub: [GitHub Profile](https://github.com/GodsGiftLove)
+- Twitter: [Twitter Profile](https://twitter.com/)
 
 ### Project Repository
 
